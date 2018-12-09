@@ -34,8 +34,10 @@ Run the application:
 mvn clean install spring-boot:run
 ```
 
-Open your browser an go to http://localhost:8080/api/orders to see some orders.
-Open your browser an go to http://localhost:8080/api/products to see some products.
+	Open your browser and go to http://localhost:8080/api/orders to see some orders.
+
+	Open your browser and go to http://localhost:8080/api/products to see some products.
+
 
 ## API methods (Swagger ui)
   
